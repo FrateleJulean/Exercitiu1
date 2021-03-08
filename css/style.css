@@ -1,0 +1,8 @@
+body{
+    width: 1980px;
+    height: 1080px;
+    transition: 1s ease-in;
+}
+body:active {
+    background-color:black;
+}
